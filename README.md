@@ -36,6 +36,6 @@ Make sure you have **Python 3** installed on your system (Linux, macOS, or Windo
 Clone the repository and run the script directly using your terminal:
 
 ```bash
-git clone 
+git clone https://github.com/HamzaNajm6410/Metal-guard
 cd MetalGuard
 python3 MetalGuard.py
